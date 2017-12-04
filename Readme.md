@@ -21,3 +21,9 @@ Use notepadd ++ as default editor
 ```
 git config --global core.editor "'C:/ProgramFiles(86)/Notepad++/notepad++.exe' -multiInst -nosession"
 ```
+# Run with Docker
+
+```
+docker build -t 'pyadwords'
+docker run pyadwords
+```
