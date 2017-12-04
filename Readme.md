@@ -11,3 +11,7 @@ git add -A # Stage all changes
 git commit # Commit the changes and add message
 git push   # Push up to GitHub
 ```
+Use notepadd ++ as default editor
+```
+git config --global core.editor "'C:/ProgramFiles(86)/Notepad++/notepad++.exe' -multiInst -nosession"
+```
