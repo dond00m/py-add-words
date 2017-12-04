@@ -3,6 +3,12 @@ This project will aim to use python to interface with Google Adwords API to gene
 
 **Interpreter:** Python 2.7
 
+# Interfacing with Adwords
+
+We'll be using the python library:
+
+https://github.com/googleads/googleads-python-lib
+
 # Git Workflow
 Run in Git Bash
 ```
